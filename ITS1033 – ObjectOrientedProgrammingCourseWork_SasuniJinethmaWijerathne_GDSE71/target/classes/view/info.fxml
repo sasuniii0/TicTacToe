@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="465.0" prefWidth="700.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.gdse71.tiktaktoeoopfinalproject.controller.BoardViewController">
+   <children>
+      <Text layoutX="28.0" layoutY="122.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Tic-Tac-Toe Championship Edition is a strategic, player-vs-AI version of the classic game! Designed with simplicity and fun in mind, this game offers an engaging solo experience where players face off against a smart AI opponent." wrappingWidth="648.1300010681152">
+         <font>
+            <Font name="Meera Regular" size="24.0" />
+         </font>
+      </Text>
+      <Text layoutX="28.0" layoutY="79.0" strokeType="OUTSIDE" strokeWidth="0.0" text="About Us" wrappingWidth="134.13000106811523">
+         <font>
+            <Font name="System Bold" size="26.0" />
+         </font>
+      </Text>
+      <Text layoutX="28.0" layoutY="260.0" strokeType="OUTSIDE" strokeWidth="0.0" text="How to Play" wrappingWidth="189.13000106811523">
+         <font>
+            <Font name="System Bold" size="26.0" />
+         </font>
+      </Text>
+      <Text layoutX="28.0" layoutY="309.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Place your marks on the grid and aim for three in a row. Plan ahead, anticipate the AI's moves, and try to outsmart your virtual opponent. With each win, you’re one step closer to mastering the art of Tic-Tac-Toe!" wrappingWidth="648.1300010681152">
+         <font>
+            <Font name="Meera Regular" size="24.0" />
+         </font>
+      </Text>
+      <Label layoutX="20.0" layoutY="433.0" prefHeight="18.0" prefWidth="664.0" style="-fx-background-color: #00a8ff;" />
+      <Label layoutX="11.0" layoutY="21.0" prefHeight="18.0" prefWidth="681.0" style="-fx-background-color: #00a8ff;" />
+   </children>
+</AnchorPane>
